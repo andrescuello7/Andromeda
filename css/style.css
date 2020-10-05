@@ -75,7 +75,7 @@ body {
     color: rgba(0, 0, 0, 0.76);
     background-color:rgba(#007bff);
 }
-.btn :hover{
+.btn:hover{
     border: 0px ;
     color: white;
     background-color: rgba(#007bff);
